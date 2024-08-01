@@ -1,15 +1,15 @@
 # Métodos Numéricos
 
-###[Tabla de contenidos]
+### [Tabla de contenidos]
 
-###[Solución Numérica de Ecuaciones No Lineales]
+### [Solución Numérica de Ecuaciones No Lineales]
 
-###[Solución Numérica de Sistemas de Ecuaciones Lineales]
+### [Solución Numérica de Sistemas de Ecuaciones Lineales]
 
-###[Diferenciación Numérica]
+### [Diferenciación Numérica]
 
-###[Integración Numérica]
+### [Integración Numérica]
 
-###[Solución Numérica de Ecuaciones Diferenciales Ordinarias]
+### [Solución Numérica de Ecuaciones Diferenciales Ordinarias]
 
-###[Solución Numérica de Ecuaciones Diferenciales Parciales]
+### [Solución Numérica de Ecuaciones Diferenciales Parciales]
