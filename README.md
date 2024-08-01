@@ -1,15 +1,27 @@
 # Métodos Numéricos
 
-### [Tabla de contenidos]
+## [Tabla de contenidos]
 
-### [Solución Numérica de Ecuaciones No Lineales]
+## [Solución Numérica de Ecuaciones No Lineales]
+  ### [Métodos Cerrados] 
+  - [Método de Bisección]
+  - [Punto Fijo]
+  - [Falsa Posición]
 
-### [Solución Numérica de Sistemas de Ecuaciones Lineales]
+  ### [Métodos Abiertos]
+  - [Newton-Raphson]
+  - [Secante]
 
-### [Diferenciación Numérica]
+## [Solución Numérica de Sistemas de Ecuaciones Lineales]
 
-### [Integración Numérica]
+## [Diferenciación Numérica]
 
-### [Solución Numérica de Ecuaciones Diferenciales Ordinarias]
+## [Integración Numérica]
 
-### [Solución Numérica de Ecuaciones Diferenciales Parciales]
+## [Solución Numérica de Ecuaciones Diferenciales Ordinarias]
+  - [Euler]
+  - [Taylor Orden n]
+  - [Runge-Kutta Orden 2]
+  - [Runge-Kutta Orden 4]
+
+## [Solución Numérica de Ecuaciones Diferenciales Parciales]
